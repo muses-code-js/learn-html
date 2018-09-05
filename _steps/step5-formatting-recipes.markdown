@@ -23,7 +23,7 @@ When you're done, your file should look something like this:
 
 [SCREENSHOT]
 
-Refer to our completed `index.html` for hints.
+Refer to our completed `traditional-cupcakes.html` for hints.
 
 ```html
 <html>
@@ -82,6 +82,12 @@ Now do `muffins.html` as well.  Use the same directions plus the following:
 2. `Variations:` should be a level 2 heading.
 3. Each variation name (i.e. Blueberry, Pecan, etc.) should be a level 3 heading.
 4. Make the variant steps an unordered list.
+
+When you're done, your file should look something like this:
+
+[INSERT SCREENSHOT]
+
+Refer to our completed `muffins.html` for hints.
 
 ```html
 <html>
