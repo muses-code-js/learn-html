@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 6
+number: 7
 title: "Stylin' with CSS"
-permalink: step6/
+permalink: step7/
 ---
 
 So far our pages look pretty plain.

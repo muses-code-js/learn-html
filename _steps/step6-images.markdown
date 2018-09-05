@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 5
+number: 6
 title: Images
-permalink: step5/
+permalink: step6/
 ---
 
 ## Images

@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 9
+number: 10
 title: div and span
-permalink: step9/
+permalink: step10/
 ---
 Ok let's jump back to HTML for a moment and look at two more tags that are really useful with CSS: `<div>` and `<span>`.
 

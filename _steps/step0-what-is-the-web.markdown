@@ -11,8 +11,8 @@ The main thing we're going to learn in this workshop is how to make simple web p
 
 We're going to use two languages to do this:
 
-- HTML (**H**yper**T**ext **M**arkup **L**anguage), and
-- CSS (**C**ascading **S**tyle **S**heets)
+- HTML (HyperText Markup Language), and
+- CSS (Cascading Style Sheets)
 
 Web pages can contain a lot of other things that aren't HTML or CSS, like images or sound files, and even other code like JavaScript. But to make a simple page, HTML and CSS are all you need.
 
@@ -92,7 +92,7 @@ In reality, a web server might not actually have a file ready for every URL that
 
 Sometimes, web servers use other software to look at incoming browser requests and write out a web page to fit that request when asked.
 
-That might sound fancy and complicated, but if you've ever done a mail-merge to make up letters to send to customers, or put together a burger or a pizza order, it's a very similar idea.
+That might sound fancy and complicated, but it's basically the same idea as doing a [mail-merge](https://en.wikipedia.org/wiki/Mail_merge) if you've ever done that to send letters to send to customers.
 
 ## Let's make it simpler, just for now
 

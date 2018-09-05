@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 4
+number: 5
 title: Formatting Recipes
-permalink: step4/
+permalink: step5/
 ---
 Ok now that our homepage is looking better lets get our recipe pages looking nice.
 
@@ -72,6 +72,7 @@ Refer to our completed `index.html` for hints.
   </body>
 </html>
 ```
+{: .solution }
 
 How did you go?
 
@@ -142,6 +143,8 @@ Now do `muffins.html` as well.  Use the same directions plus the following:
   </body>
 </html>
 ```
+{: .solution }
+
 
 Ok.  Now we have our three pages: two recipes and a homepage.
 

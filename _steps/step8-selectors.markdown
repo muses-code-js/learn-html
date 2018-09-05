@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 7
+number: 8
 title: CSS Selectors
-permalink: step7/
+permalink: step8/
 ---
 
 ## Selectors

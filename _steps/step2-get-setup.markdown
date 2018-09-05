@@ -1,43 +1,54 @@
 ---
 layout: step
-number: 1
+number: 2
 title: Get Setup
-permalink: step1/
+permalink: step2/
 ---
 
 ## What we're building
 
-So we are going to learn HTML & CSS by creating a simple website.  Just a few pages.
-
-What we are going to do is create a simple recipes site.
-
-
-## What you need
-
-The best thing about making web pages is that you don't really need very much to get started.
-
-1. A Text Editor.
-2. A Web Browser.
-
-## Text Editors, source code & plain text
-
-about plain text as the simplest format for text (hence plain)
-
-features for programming: syntax highlighting, file views, completion suggestion, snippets
+So we are going to learn HTML & CSS by creating a simple recipes website with a few pages.
 
 ## Setup
 
-Create a folder somewhere on your computer that makes sense for you.  Everything we create in this workshop will be created in that folder.  It could be on your desktop, or your documents folder, or wherever.
+Create a folder somewhere on your computer that makes sense for you and call it `learn-html-workshop`.
+Everything we create in this workshop will be created in that folder.
+It could be on your desktop, or your documents folder, or wherever.
 
-Now create these three files:
+Now open Atom.  If this is the first time you have launched it it display the Welcome Guide.
+Close those two tabs for now.
 
-1. `index.html`
-2. `traditional-cupcakes.html`
-3. `muffins.html`
+Go to the `File` menu, select `Add Project Folder`, browse to your `learn-html-workshop` folder and click `open`.
+
+Now you should see the Project view open on the left side with your folder visible.
+
+[INSERT SCREENSHOT]
+
+Now we will create the three files that we will be working on.  The file names are:
+
+ * `index.html`
+ * `traditional-cupcakes.html`
+ * `muffins.html`
+
+To create a new file in Atom, right-click on the folder in the Project view, select `New File` from the menu, and type in the filename in the popup-box.
+
+As each file is created it will be automatically opened in a new editor tab by Atom.
+
+[INSERT SCREENSHOT]
+
+Once you have created all three new files, open each one by selecting it in the Project view (or clicking on its tab if it's already open) and pasting in the following content below.
+
+Each file has it's own block of content to add.
+
+[INSERT SCREENSHOT]
+
+Don't forget to save each file as you make changes.  You can save using the `File` menu, `ctrl`-`s` on Windows/Linux, or  `CMD`-`s` on macOS.  
+
+Hint: When an file in Atom has unsaved content you will see a little blue dot on the right on it's tab.
 
 ## Our content
 
-`index.html`
+### index.html
 
 ```
 Tiny Cakes!
@@ -51,7 +62,7 @@ Here are the recipes that we have:
 * Muffins
 ```
 
-`traditional-cupcakes.html`
+### traditional-cupcakes.html
 
 ```
 Traditional Cupcakes
@@ -86,7 +97,7 @@ Method:
 9. Decorate with sprinkles.
 ```
 
-`muffins.html`
+### muffins.html
 
 ```
 Muffins
@@ -135,3 +146,5 @@ Date or Raisin Muffins:
 Bacon Muffins:
  * Add 3 strips bacon, fried crisp and crumbled, to the batter.
 ```
+
+Once you've added the content to each file continue to the next step.

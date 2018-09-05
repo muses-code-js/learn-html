@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 8
+number: 9
 title: Styling Links
-permalink: step8/
+permalink: step9/
 ---
 
 Our links are pretty plain.

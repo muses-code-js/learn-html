@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 3
+number: 4
 title: Formatting the Homepage
-permalink: step3/
+permalink: step4/
 ---
 
 For a browser to know how to display content, we need to tell it what each piece of content actually is, e.g. a heading, a paragraph, a list etc.

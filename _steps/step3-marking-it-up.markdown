@@ -1,8 +1,8 @@
 ---
 layout: step
-number: 2
-title: marking it up
-permalink: step2/
+number: 3
+title: Marking it up
+permalink: step3/
 ---
 
 So let's get started with our first page, `index.html` which is our site's homepage.
