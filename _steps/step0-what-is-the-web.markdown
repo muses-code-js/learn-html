@@ -7,7 +7,7 @@ permalink: step0/
 
 ## What we're doing today
 
-The main thing we're going to learn in this workshop is how to make simple web pages.
+The main thing we're going to learn in this workshop is how to make web pages.
 
 We're going to use two languages to do this:
 
@@ -16,7 +16,7 @@ We're going to use two languages to do this:
 
 Web pages can contain a lot of other things that aren't HTML or CSS, like images or sound files, and even other code like JavaScript. But to make a simple page, HTML and CSS are all you need.
 
-But before we start learning new languages, let's take a moment to make sure we're all on the same web page. ;)
+But before we start learning new languages, let's take a moment to make sure we're all on the same (web) page.
 
 ## The web
 
@@ -44,7 +44,7 @@ You don't have to learn everything at once. :)
 In simple terms, the web works like this:
 
 1. You ask your browser for a web page.
-2. Your browser asks another computer for that web page.
+2. Your browser sends a request for that page to the appropriate computer on the internet.
 3. The other computer sends the web page back.
 4. Your browser receives the web page and displays it for you.
 
@@ -52,12 +52,13 @@ Let's break that down in a little more detail.
 
 ### 1. You ask for a web page.
 
-Normally, you type a web page address into your browser or click on a link to ask for a web page.
+Normally, you type a web page address into your browser or click on a link (that contains an address) to ask for a web page.
 
-We call these web page addresses **URL**s.
+A web page address is called a **URL**, which stands for Uniform Address Locator.
 
 A URL has three parts:
-1. A **protocol** - the way that the web page should be sent. For web pages, this is usually **http** or **https**.
+
+1. The **protocol** - the way that the web page should be sent. For web pages, this is usually **http** or **https**.
 2. A **host name** - the name of the computer that has the page you asked for.
 3. A **path** - the location of the page on the computer that has it.
 
@@ -67,7 +68,9 @@ The parts of a URL give your browser all the information it needs to go and ask 
 
 Let's look at the URL for the Node Girls Brisbane page, `http://nodegirls.com.au/brisbane.html`, as an example.
 
-In this URL, the protocol is `http`, the host name is `nodegirls.com.au`, and the path is `brisbane.html`. That means that the web server called `nodegirls.com.au` has sent us the `brisbane.html` file using the `http` protocol.
+In this URL, the protocol is `http`, the host name is `nodegirls.com.au`, and the path is `/brisbane.html`. That means that the web server called `nodegirls.com.au` has sent us the `brisbane.html` file using the `http` protocol.
+
+A protocol is an agreement on a set of rules.  In this case it means the set of rules that describe how web page requests and responses should be packaged up and sent. **http** defines this, and **https** extends that protocol to handle security.
 
 Look at the address bar of your browser right now, as you're reading this page.
 Can you tell what the different parts are?
@@ -90,21 +93,17 @@ The case that we've gone through here is pretty simple: a server has a web page 
 
 In reality, a web server might not actually have a file ready for every URL that it gets asked for.
 
-Sometimes, web servers use other software to look at incoming browser requests and write out a web page to fit that request when asked.
+Sometimes, web servers use other software to look at incoming browser requests and create the webpage on the fly for each specific request.  
 
-That might sound fancy and complicated, but it's basically the same idea as doing a [mail-merge](https://en.wikipedia.org/wiki/Mail_merge) if you've ever done that to send letters to send to customers.
+That might sound fancy and complicated, but the way most of them do it isn't that dissimilar to doing a [mail-merge](https://en.wikipedia.org/wiki/Mail_merge). :wink:
 
-## Let's make it simpler, just for now
+## Let's make it even simpler, just for now
 
 In this workshop, we're going to do something a little different.
 
-We're going to use the **file** protocol instead of **http** or **https**.
+Setting up a server can be complicated, but luckily for us browsers also support just opening up the file locally from your own computer.  When you do this, the browser uses the **file** protocol.  You'll notice this in the URL when we get started.
 
-Basically, your browser is going to be asking your own computer for a file, and then displaying that file for you.
-
-All this means is that we don't have to run our own web server to receive page requests and send back web pages.
-
-The protocol is the only thing we're going to change.
+The protocol is the only thing we're going to change though.
 The underlying HTML and CSS will be exactly the same.
 
 Ready? Let's go!

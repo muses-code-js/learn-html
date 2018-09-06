@@ -12,7 +12,6 @@ You need:
 1. A Web Browser to view & test your pages.
 2. A Text Editor to edit your pages
 
-It should be fairly obvious that you need a web browser to test your pages.
 Any of the major browsers is fine (Firefox, Chrome, Internet Explorer, Edge, Safari).
 Use which ever one you prefer to use for browsing.
 

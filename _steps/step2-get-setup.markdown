@@ -9,6 +9,8 @@ permalink: step2/
 
 So we are going to learn HTML & CSS by creating a simple recipes website with a few pages.
 
+[INSERT SCREENSHOT]
+
 ## Setup
 
 Create a folder somewhere on your computer that makes sense for you and call it `learn-html-workshop`.
