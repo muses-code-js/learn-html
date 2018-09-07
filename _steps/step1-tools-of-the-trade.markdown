@@ -24,9 +24,9 @@ The reason you can't use a word processor is because what those programs actuall
 You need to use type of program called a **text editor** to edit the code.
 
 We recommend getting started with an editor called Atom.  
-You can download Atom from it's [website](http://atom.io).
+You can download Atom from its [website](http://atom.io).
 
-[INSERT SCREENSHOT]
+![The Atom text editor](../assets/atom-editor.png){:title="The Atom text editor" class="img-responsive"}
 
 A text editor is a program that lets you write and edit plain text.  Just the text.  Nothing but the text.  There is no formatting.  There is no bold, no italics, nothing.  Just the text.
 

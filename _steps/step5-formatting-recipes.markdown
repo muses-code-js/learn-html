@@ -21,7 +21,7 @@ Step 7 of the method is trickier, right? The good news is, you can nest most thi
 
 When you're done, your file should look something like this:
 
-[SCREENSHOT]
+![The marked-up cupcakes page](../assets/browser-cupcakes-formatted.png){:title="The marked-up cupcakes page" class="img-responsive"}
 
 Refer to our completed `traditional-cupcakes.html` for hints.
 
@@ -29,6 +29,7 @@ Refer to our completed `traditional-cupcakes.html` for hints.
 <html>
   <head>
     <title>Traditional Cupcakes</title>
+    <meta charset="UTF-8"/>
   </head>
   <body>
     <a href="index.html">HOME</a>
@@ -85,7 +86,7 @@ Now do `muffins.html` as well.  Use the same directions plus the following:
 
 When you're done, your file should look something like this:
 
-[INSERT SCREENSHOT]
+![The marked-up muffins page](../assets/browser-muffins-formatted.png){:title="The marked-up muffins page" class="img-responsive"}
 
 Refer to our completed `muffins.html` for hints.
 
@@ -93,6 +94,7 @@ Refer to our completed `muffins.html` for hints.
 <html>
   <head>
     <title>Muffins</title>
+    <meta charset="UTF-8"/>
   </head>
   <body>
     <a href="index.html">Home</a>

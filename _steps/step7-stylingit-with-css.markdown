@@ -42,7 +42,7 @@ So for example `index.html` would have a `<head>` that looks like:
 
 Refresh the page and it should now have a lovely pink background.
 
-[SCREENSHOT]
+![Homepage with pink background](../assets/css-home-background.png){:title="Homepage with pink background" class="img-responsive"}
 
 The `<link>` tag tells the page to use `tinycakes.css` as a stylesheet.
 
@@ -68,13 +68,13 @@ There are three different ways you can specify a colour:
 
 1. By using a colour keyword: `pink` is pink
 2. By using functional notation: `rgb(255, 192, 203)` is pink
-3. By using hexidecimal (HEX) notation: `#ffc0cb` is also pink.
+3. By using hexadecimal (HEX) notation: `#ffc0cb` is also pink.
 
 The functional notation uses three values, one for red, one for green, and one for blue, AKA RGB values.
 The values are from 0 to 255.
 There is also a `rgba` version of this where you can specify a fourth value, a percentage to represent transparency (or **alpha** value).  
 
-The hexidecimal notation has a `#` character followed by three numbers in hexadecimal format to represent the same three red, green, and blue values.
+The hexadecimal notation has a `#` character followed by three numbers in hexadecimal format to represent the same three red, green, and blue values.
 
 Many graphics apps will let you pick a colour and get the hexadecimal or RGB values for it.
 If you Google for colour pickers you will find many apps and web apps that let you do this too.
@@ -99,7 +99,7 @@ body {
 
 Refresh our page.  That looks a bit nicer.  Lets have a look at what we did.
 
-[SCREENSHOT]
+![A pink background and white body background](../assets/css-home-body-bg.png){:title="A pink background and white body background" class="img-responsive"}
 
 1. We set the background color to white.  
 2. We set the maximum width of the body to 800 pixels.  By default `<body>` will have a width of 100% because it is a block element.  Setting `max-width` means it will still try to be 100% but will never go wider than 800px.

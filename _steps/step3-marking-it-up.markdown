@@ -9,7 +9,7 @@ So let's get started with our first page, `index.html` which is our site's homep
 
 Open up `index.html` in your browser.
 
-[SCREENSHOT]
+![The un-marked-up home page](../assets/browser-unformatted.png){:title="The un-marked-up home page" class="img-responsive"}
 
 Ok ... so that looks like a hot mess. What's with that?
 
@@ -46,7 +46,7 @@ Update `index.html` so it has :
 
 Save it, refresh our browser window & it does look the same, but if you look closely you'll see that the browser tab now reads "Tiny Cakes!" instead of the filename.
 
-[SCREENSHOT]
+![The titled but un-marked-up home page](../assets/browser-unformatted-title.png){:title="The titled but un-marked-up home page" class="img-responsive"}
 
 We've added a few pieces of HTML here which are like the scaffolding or frame of the document.  We haven't actually added any formatting instructions yet which is why it looks mostly the same.
 

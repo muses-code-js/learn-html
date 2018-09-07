@@ -28,7 +28,7 @@ Someone might have a browser that doesn't have a zero value for body padding. --
 body {
   margin: 20px auto;
   max-width: 800px;
-  background-color: rgba(255, 255, 255);
+  background-color: rgb(255, 255, 255);
   padding: 20px 0px;
   font-family: sans-serif;
 }
@@ -36,7 +36,7 @@ body {
 
 Save and refresh and you will see that our headings to what we want them to now.  
 
-[SCREENSHOT]
+![Headings span entire body](../assets/css-no-side-padding.png){:title="Headings span entire body" class="img-responsive"}
 
 But we have a new problem, all of our other content is right up against the left and side without any padding.
 
@@ -69,8 +69,6 @@ div.container {
 
 Refresh and now you should see that first part is inset from the edge.
 
-[SCREENSHOT]
-
 Now add a `<div>` with the class of `container` to each of the ingredients, method and variations.
 
 For example, for ingredients:
@@ -92,11 +90,11 @@ For example, for ingredients:
 
 Update each of them (in both the cupcakes and muffins pages) and we should see our content nicely spaced from the edges and the headings going all the way across.
 
-[SCREENSHOT]
+![Headings span, div content doesn't](../assets/css-extra-internal-padding.png){:title="Headings span, div content doesn't" class="img-responsive"}
 
 But oops, if we look at our homepage we have a problem because we removed the body padding.  
 
-[SCREENSHOT]
+![Homepage without padding](../assets/css-broken-homepage.png){:title="Homepage without padding" class="img-responsive"}
 
 Easy to fix, just add `<div>` with class `container` around all the content we want to be inset like this:
 
@@ -119,7 +117,7 @@ Easy to fix, just add `<div>` with class `container` around all the content we w
 </body>
 ```
 
-[SCREENSHOT]
+![Homepage with a div](../assets/css-fixed-homepage.png){:title="Homepage with a div" class="img-responsive"}
 
 Much better.
 
@@ -151,6 +149,6 @@ Like this:
 <li>Preheat oven to <span class="temp">200°C</span> or <span class="temp">180°C</span> fan-forced.</li>
 ```
 
-[SCREENSHOT]
+![Fancy temperatures](../assets/css-fancy-temperatures.png){:title="Fancy temperatures" class="img-responsive"}
 
 Any text you want to apply specific styles to just wrap it in a span, give it a class and write a style for the class.
