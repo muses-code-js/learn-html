@@ -21,7 +21,7 @@ Edit `index.html` and put the following on the line before the  `<h1>`:
 
 Save it and refresh the page.
 
-[SCREENSHOT]
+![The home page with an image](../assets/browser-homepage-image.png){:title="The home page with an image" class="img-responsive"}
 
 Nice. So what do we have here?
 
@@ -45,6 +45,8 @@ Notice that the image tag doesn't have opening & closing tags.  It just has a `/
 
 Before you go to the next step, try to add an appropriate image to each recipe page.  Use a stock image site like https://www.stockfreeimages.com/ to find and save a photo of cupcakes and one of muffins and add them to each of the recipe pages.
 
-[SCREENSHOT]
+![The cupcakes page with an image](../assets/browser-cupcakes-image.png){:title="The cupcakes page with an image" class="img-responsive"}
+
+![The muffins page with an image](../assets/browser-muffins-image.png){:title="The muffins page with an image" class="img-responsive"}
 
 In the next step we will learn how to use CSS to take those plain pages and jazz them up a little.

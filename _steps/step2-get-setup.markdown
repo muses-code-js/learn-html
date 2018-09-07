@@ -24,7 +24,7 @@ Go to the `File` menu, select `Add Project Folder`, browse to your `learn-html-w
 
 Now you should see the Project view open on the left side with your folder visible.
 
-[INSERT SCREENSHOT]
+![Creating a project in Atom](../assets/atom-blank.png){:title="Creating a project in Atom" class="img-responsive"}
 
 Now we will create the three files that we will be working on.  The file names are:
 
@@ -36,13 +36,13 @@ To create a new file in Atom, right-click on the folder in the Project view, sel
 
 As each file is created it will be automatically opened in a new editor tab by Atom.
 
-[INSERT SCREENSHOT]
+![Empty files in Atom](../assets/atom-empty-files.png){:title="Empty files in Atom" class="img-responsive"}
 
 Once you have created all three new files, open each one by selecting it in the Project view (or clicking on its tab if it's already open) and pasting in the following content below.
 
-Each file has it's own block of content to add.
+Each file has its own block of content to add.
 
-[INSERT SCREENSHOT]
+![Content added to files](../assets/atom-unformatted-files.png){:title="Content added to files" class="img-responsive"}
 
 Don't forget to save each file as you make changes.  You can save using the `File` menu, `ctrl`-`s` on Windows/Linux, or  `CMD`-`s` on macOS.  
 
