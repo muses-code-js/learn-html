@@ -29,6 +29,7 @@ Refer to our completed `traditional-cupcakes.html` for hints.
 <html>
   <head>
     <title>Traditional Cupcakes</title>
+    <meta charset="UTF-8"/>
   </head>
   <body>
     <a href="index.html">HOME</a>
@@ -93,6 +94,7 @@ Refer to our completed `muffins.html` for hints.
 <html>
   <head>
     <title>Muffins</title>
+    <meta charset="UTF-8"/>
   </head>
   <body>
     <a href="index.html">Home</a>

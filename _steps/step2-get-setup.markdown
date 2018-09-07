@@ -9,7 +9,7 @@ permalink: step2/
 
 So we are going to learn HTML & CSS by creating a simple recipes website with a few pages.
 
-[INSERT SCREENSHOT]
+![Tiny Cakes!](../assets/css-fixed-homepage.png){:title="Tiny Cakes!" class="img-responsive"}
 
 ## Setup
 

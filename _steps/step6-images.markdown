@@ -38,7 +38,7 @@ You can set the `height` and `width` attributes on an image as well to control i
 Update the image tag as follows to make the size a little more reasonable:
 
 ```html
-<img src="tinycakes.png" title="Tiny Cakes!" alt="The Tiny Cakes logo, a stylized cartoon cupcake." height="477" width="377" />
+<img src="tinycakes.png" title="Tiny Cakes!" alt="The Tiny Cakes logo, a stylized cartoon cupcake." height="47" width="37" />
 ```
 
 Notice that the image tag doesn't have opening & closing tags.  It just has a `/>` instead of `>` in the tag.  This is called a **self-closing tag**.  There are a few of these in HTML.  Usually they are tags that specify an element of the page that isn't text.  In this case an image.
