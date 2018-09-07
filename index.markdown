@@ -1,27 +1,17 @@
 ![NodeGirls](assets/logo.png)
 
+## Welcome to Learning HTML
 
-<!-- Welcome to Javascript.
+The purpose of this workshop is to teach you HTML and CSS, the two core languages used to make webpages.
 
-We are going to assume the following about you:
+We assume very little except enthusiasm and a basic familiarity with your computer and a web browser.
 
- - you know some basic HTML/CSS and can make simple webpages
- - you know the basics of using a text editor like Atom, Visual Studio Code, Sublime Text etc.
+## Why Learn HTML & CSS?
 
-If you aren’t familiar with those things you should start with [Introduction to HTML](LINK) first.
-
-This workshop aims to teach you the basics of Javascript within the web-browser.  This is pretty easy to get started with, and builds up some core  knowledge useful both in the browser and in learning Node.JS or any other JavaScript environment.
-
-## Why JavaScript?
-
-JavaScript is everywhere these days.  In addition to being built into the browser, Node.JS has made it possible to do server-side, desktop, and even robotics programming in Javascript as well.  
-
-So now you can write your backend services in Javascript, your website frontend  in Javascript, desktop tools, and automation as well.
-
-The future is obviously written in Javascript, so the better question is: Why not Javascript?
+If you want to build websites you need to know this.  But even if you don't, knowing a little bit about how web pages work can help you in your day-to-day interactions with websites as you realise a little more about what is going on.
 
 ## What we are going to do
 
-This workshop has a bunch of steps.  After giving you an overview of the concept of programming, each step will introduce a new aspect of javascript step you through building a simple page to demonstrate it.
+This workshop has a bunch of steps.  Starting with some raw content for a three page website we show you step by step how to make those raw material into functioning webpages.
 
-Sound good?  Then let’s go. -->
+Sound good?  Then let’s go.

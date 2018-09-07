@@ -41,6 +41,8 @@ Many text editors like Atom are actually designed specifically for coding and in
  - Multiple editor tabs so you can have multiple files open and switch between them easily.
  - Syntax highlighting which colours different parts of your code depending on the type of code.  This can make it easier to read your code.
 
+Some editors can also detect when your code doesn't make any sense and highlight this for you.
+
 We assume you are using Atom for this workshop, but there are many other excellent editors available.
 They all have their pros and cons and users that swear by them.
 
