@@ -47,7 +47,7 @@ Replace the content inside the `<body>` tags in `index.html` with the following:
 
 Save the file and refresh your browser. It should look a bit nicer.
 
-![The marked-up home page](../assets/browser-formatted-homepage.png){:title="The marked-up home page" class="img-responsive"}
+![The marked-up home page](../assets/browser-formatted-homepage.png){:title="The marked-up home page" class="img-responsive imgbox"}
 
 Much better, so lets talk about the HTML tags we used here.
 
@@ -122,7 +122,7 @@ Let's make our list of recipes into a list of hyperlinks to our other recipes pa
 
 Now refresh your page and the list should be hyperlinks, which are usually blue and underlined by default.
 
-![Adding links to the list](../assets/browser-formatted-home-links.png){:title="Adding links to the list" class="img-responsive"}
+![Adding links to the list](../assets/browser-formatted-home-links.png){:title="Adding links to the list" class="img-responsive imgbox"}
 
 If you click on one of them, your browser will navigate to that page and you'll see the unformatted content because we haven't added any markup to those yet.  Click the back button in your browser to get back to the original page.
 

@@ -42,7 +42,7 @@ So for example `index.html` would have a `<head>` that looks like:
 
 Refresh the page and it should now have a lovely pink background.
 
-![Homepage with pink background](../assets/css-home-background.png){:title="Homepage with pink background" class="img-responsive"}
+![Homepage with pink background](../assets/css-home-background.png){:title="Homepage with pink background" class="img-responsive imgbox"}
 
 The `<link>` tag tells the page to use `tinycakes.css` as a stylesheet.
 
@@ -99,7 +99,7 @@ body {
 
 Refresh our page.  That looks a bit nicer.  Lets have a look at what we did.
 
-![A pink background and white body background](../assets/css-home-body-bg.png){:title="A pink background and white body background" class="img-responsive"}
+![A pink background and white body background](../assets/css-home-body-bg.png){:title="A pink background and white body background" class="img-responsive imgbox"}
 
 1. We set the background color to white.  
 2. We set the maximum width of the body to 800 pixels.  By default `<body>` will have a width of 100% because it is a block element.  Setting `max-width` means it will still try to be 100% but will never go wider than 800px.

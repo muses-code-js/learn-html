@@ -93,9 +93,9 @@ The case that we've gone through here is pretty simple: a server has a web page 
 
 In reality, a web server might not actually have a file ready for every URL that it gets asked for.
 
-Sometimes, web servers use other software to look at incoming browser requests and create the webpage on the fly for each specific request.  
+Sometimes, web servers use other software to look at incoming browser requests and create the webpage on the fly for each specific request.  However we aren't going to build anything like that first.  We are just going to build a few simple pages.
 
-That might sound fancy and complicated, but the way most of them do it isn't that dissimilar to doing a [mail-merge](https://en.wikipedia.org/wiki/Mail_merge). :wink:
+<!-- That might sound fancy and complicated but it's, but the way most of them do it isn't that dissimilar to doing a [mail-merge](https://en.wikipedia.org/wiki/Mail_merge). :wink: -->
 
 ## Let's make it even simpler, just for now
 

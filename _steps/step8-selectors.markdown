@@ -25,7 +25,7 @@ h1 {
 
 Refresh the homepage and it should look how we want it it.  
 
-![A pink heading](../assets/css-home-title-color.png){:title="A pink heading" class="img-responsive"}
+![A pink heading](../assets/css-home-title-color.png){:title="A pink heading" class="img-responsive imgbox"}
 
 But then if you look on the recipe pages the recipe titles are also hot pink and we don't want that.
 So what do we do?
@@ -77,7 +77,7 @@ h2.recipepart {
 
 The `.` in the selector means the next part is a class.
 
-![Fancy second-level headings](../assets/css-fancy-subheadings.png){:title="Fancy second-level headings" class="img-responsive"}
+![Fancy second-level headings](../assets/css-fancy-subheadings.png){:title="Fancy second-level headings" class="img-responsive imgbox"}
 
 So what did we do here?
 
@@ -139,7 +139,7 @@ h2.variations {
 }
 ```
 
-![Fancier second-level headings](../assets/css-fancier-subheadings.png){:title="Fancier second-level headings" class="img-responsive"}
+![Fancier second-level headings](../assets/css-fancier-subheadings.png){:title="Fancier second-level headings" class="img-responsive imgbox"}
 
 CSS lets us write multiple different styles whose selectors overlap.
 This lets us apply a set of styles to multiple elements, and then additional styles individually.
@@ -164,7 +164,7 @@ For example try adding the following CSS at the bottom of your stylesheet file:
 That will draw a solid black border around every element on the page that can have a border.
 This is useful for getting a feel for what space different elements occupy on your page.  
 
-![Border all the things](../assets/css-border-all-the-things.png){:title="Border all the things" class="img-responsive"}
+![Border all the things](../assets/css-border-all-the-things.png){:title="Border all the things" class="img-responsive imgbox"}
 
 You would of course remove this style before uploading your pages anywhere.
 
@@ -192,7 +192,7 @@ p {
 }
 ```
 
-![What happens when you split elements](../assets/css-when-you-split-elements.png){:title="What happens when you split elements" class="img-responsive"}
+![What happens when you split elements](../assets/css-when-you-split-elements.png){:title="What happens when you split elements" class="img-responsive imgbox"}
 
 The second paragraph doesn't have the green background.  Why?
 

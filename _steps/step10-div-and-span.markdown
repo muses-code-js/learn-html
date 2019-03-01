@@ -36,7 +36,7 @@ body {
 
 Save and refresh and you will see that our headings to what we want them to now.  
 
-![Headings span entire body](../assets/css-no-side-padding.png){:title="Headings span entire body" class="img-responsive"}
+![Headings span entire body](../assets/css-no-side-padding.png){:title="Headings span entire body" class="img-responsive imgbox"}
 
 But we have a new problem, all of our other content is right up against the left and side without any padding.
 
@@ -90,11 +90,11 @@ For example, for ingredients:
 
 Update each of them (in both the cupcakes and muffins pages) and we should see our content nicely spaced from the edges and the headings going all the way across.
 
-![Headings span, div content doesn't](../assets/css-extra-internal-padding.png){:title="Headings span, div content doesn't" class="img-responsive"}
+![Headings span, div content doesn't](../assets/css-extra-internal-padding.png){:title="Headings span, div content doesn't" class="img-responsive imgbox"}
 
 But oops, if we look at our homepage we have a problem because we removed the body padding.  
 
-![Homepage without padding](../assets/css-broken-homepage.png){:title="Homepage without padding" class="img-responsive"}
+![Homepage without padding](../assets/css-broken-homepage.png){:title="Homepage without padding" class="img-responsive imgbox"}
 
 Easy to fix, just add `<div>` with class `container` around all the content we want to be inset like this:
 
@@ -117,7 +117,7 @@ Easy to fix, just add `<div>` with class `container` around all the content we w
 </body>
 ```
 
-![Homepage with a div](../assets/css-fixed-homepage.png){:title="Homepage with a div" class="img-responsive"}
+![Homepage with a div](../assets/css-fixed-homepage.png){:title="Homepage with a div" class="img-responsive imgbox"}
 
 Much better.
 
@@ -149,6 +149,6 @@ Like this:
 <li>Preheat oven to <span class="temp">200°C</span> or <span class="temp">180°C</span> fan-forced.</li>
 ```
 
-![Fancy temperatures](../assets/css-fancy-temperatures.png){:title="Fancy temperatures" class="img-responsive"}
+![Fancy temperatures](../assets/css-fancy-temperatures.png){:title="Fancy temperatures" class="img-responsive imgbox"}
 
 Any text you want to apply specific styles to just wrap it in a span, give it a class and write a style for the class.

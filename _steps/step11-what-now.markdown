@@ -22,4 +22,4 @@ So what to do now?
 2. Upload your pages to a free hosting service like <https://neocities.org/> and show them off to your family and friends.
 3. Learn more about HTML & CSS at <https://developer.mozilla.org/en-US/docs/Learn>
 
-Or if you are feeling confident you can move straight onto the the [Learn JS](/learn-js/) workshop and learn how to make your pages more interactive with Javascript.
+Or if you are feeling confident you can move straight onto the the [Learn NodeJS](/learn-nodejs/) workshop and learn how to build the same site as a server-side application with NodeJS.

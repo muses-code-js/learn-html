@@ -23,7 +23,7 @@ a {
 
 Save and refresh the homepage to check it out.
 
-![Fancy links](../assets/css-fancy-links.png){:title="Fancy links" class="img-responsive"}
+![Fancy links](../assets/css-fancy-links.png){:title="Fancy links" class="img-responsive imgbox"}
 
 The `text-decoration` declaration is what controls the underlining of a link.  Here we set that to `none` to turn it off.  Then we use `border-bottom` to create our own underline, and we use the `dashed` border system.  That is what lets us have the dashed-style underline.
 
@@ -36,7 +36,7 @@ li {
 }
 ```
 
-![Spaced links](../assets/css-spaced-links.png){:title="Spaced links" class="img-responsive"}
+![Spaced links](../assets/css-spaced-links.png){:title="Spaced links" class="img-responsive imgbox"}
 
 (You can't see the cursor in this screenshot, but it's hovering over the bottom link.)
 
@@ -89,7 +89,7 @@ a:active {
 
 We didn't style `:link` here because styling `a` does the same thing for our case.
 
-![Fancier links](../assets/css-fancier-links.png){:title="Fancier links" class="img-responsive"}
+![Fancier links](../assets/css-fancier-links.png){:title="Fancier links" class="img-responsive imgbox"}
 
 This order is important because the link styles build on one another, for example the styles in the first rule will apply to all the subsequent ones, and when a link is being activated, it is also being hovered over.  If you put the styles in a different order than you might get weird effects.
 

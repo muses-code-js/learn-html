@@ -9,9 +9,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Node Girls"
-workshopname: "Learning HTML for total beginners"
-email: your-email@domain.com
+title: "Muses Code"
+workshopname: "Learning HTML & CSS"
 description: > # this means to ignore newlines until "baseurl:"
   This is an total beginners workshop for HTML & CSS
 baseurl: "/learn-html" # the subpath of your site, e.g. /blog
