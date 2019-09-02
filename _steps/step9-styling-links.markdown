@@ -96,4 +96,4 @@ This order is important because the link styles build on one another, for exampl
 Note that these are pretty dramatic changes to link styling.  People are mostly used to the underlined text style so be careful changing it too dramatically. It can confuse and annoy people - and if the change is too dramatic, such as a change in font size that moves the text away from the tip of the mouse cursor, it might actually make your link impossible to click on.
 
 You can learn much more about styling of links at
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links" target="_blank">https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links</a>

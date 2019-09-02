@@ -59,7 +59,7 @@ This obviously sets the background colour of the html element to pink.
 
 There are many style properties that you can set on each element.
 You can find a full list of them and how they can be used here:
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">https://developer.mozilla.org/en-US/docs/Web/CSS/Reference</a>
 
 <!-- <div class="aside"> -->
 ### About Colours
