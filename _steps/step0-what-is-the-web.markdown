@@ -26,7 +26,7 @@ We've all used the web:
 we've typed addresses into Firefox or Internet Explorer to get to a certain web page,
 and we've clicked links to go to other related web pages.
 
-But how much do you know about what does on behind the scenes? What really happens when you click a link or type in a page address?
+But how much do you know about what goes on behind the scenes? What really happens when you click a link or type in a page address?
 
 There are actually a lot of things going on behind each of these small actions!
 
@@ -54,7 +54,7 @@ Let's break that down in a little more detail.
 
 Normally, you type a web page address into your browser or click on a link (that contains an address) to ask for a web page.
 
-A web page address is called a **URL**, which stands for Uniform Address Locator.
+A web page address is called a **URL**, which stands for **Uniform Resource Locator**.
 
 A URL has three parts:
 
@@ -66,9 +66,9 @@ A URL has three parts:
 
 The parts of a URL give your browser all the information it needs to go and ask another computer for that page. We call computers that send web pages on request **web servers**.
 
-Let's look at the URL for the Node Girls Brisbane page, `http://nodegirls.com.au/brisbane.html`, as an example.
+Let's look at the URL for the Muses Code JS Brisbane page, `http://musescodejs.org/brisbane.html`, as an example.
 
-In this URL, the protocol is `http`, the host name is `nodegirls.com.au`, and the path is `/brisbane.html`. That means that the web server called `nodegirls.com.au` has sent us the `brisbane.html` file using the `http` protocol.
+In this URL, the protocol is `http`, the host name is `musescodejs.org`, and the path is `/brisbane.html`. That means that the web server called `musescodejs.org` has sent us the `brisbane.html` file using the `http` protocol.
 
 A protocol is an agreement on a set of rules.  In this case it means the set of rules that describe how web page requests and responses should be packaged up and sent. **http** defines this, and **https** extends that protocol to handle security.
 

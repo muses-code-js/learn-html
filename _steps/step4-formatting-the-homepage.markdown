@@ -131,7 +131,7 @@ Notice the `href="muffins.html"` part of the tag?  This is called an attribute. 
 If you want to link to a different site, you have to put the whole URL like:
 
 ```html
-<a href="http://nodegirls.com.au/brisbane.html">Node Girls: Brisbane</a>
+<a href="https://musescodejs.org/brisbane.html">Muses Code JS: Brisbane</a>
 ```
 
 Some tags require attributes for specific features.

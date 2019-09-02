@@ -147,7 +147,7 @@ This is much nicer than having to write all of those styles out for each.
 
 ## The Global Selector
 
-There are much more powerful types of selectors than just these ones, you can also combine different types too.  We aren't going to be using those but you can learn more about them at https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors
+There are much more powerful types of selectors than just these ones, you can also combine different types too.  We aren't going to be using those but you can learn more about them at <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors" target="_blank">https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Combinators_and_multiple_selectors</a>
 
 However there is one special selector, `*` the **global selector** which targets all elements which warrants talking about here.
 
